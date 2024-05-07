@@ -15,8 +15,8 @@
     "link": "https://music.yiloko.asia/"
   },
   {
-    "icon":"far fa-torii-gate",
+    <font-awesome-icon icon="far fa-torii-gate" />,
     "name": "お御籤",
-    "link": "https://music.yiloko.asia/"
+    "link": "https://aidn.jp/omikuji/"
   }
 ]
